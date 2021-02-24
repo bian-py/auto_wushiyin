@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "script",
+    "children" : [ {
+      "name" : "test01_debug",
+      "children" : [ {
+        "name" : "TestDebug",
+        "children" : [ {
+          "name" : "test01_debug",
+          "uid" : "70665382dddc1b56",
+          "parentUid" : "74aa46afeed893b2f840e78ca0775769",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613788627247,
+            "stop" : 1613788627247,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "74aa46afeed893b2f840e78ca0775769"
+      } ],
+      "uid" : "c7fb979d319efa9d1889993fca084fb8"
+    } ],
+    "uid" : "753b61216abbfea068f4ca4e530487c6"
+  } ]
+}
