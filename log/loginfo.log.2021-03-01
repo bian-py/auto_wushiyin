@@ -1,0 +1,24 @@
+[admin] 2021-03-01 14:35:07,942 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.gps', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-03-01 14:35:30,184 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5c42f03a-4f87-4347-a7fe-4a847e88cdf1")>
+[admin] 2021-03-01 14:35:30,185 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.gps:id/jurisdiction_cradtv5')
+[admin] 2021-03-01 14:35:30,185 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.gps:id/jurisdiction_cradtv5')
+[admin] 2021-03-01 14:35:33,202 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.gps:id/tv_start1')
+[admin] 2021-03-01 14:35:33,202 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.gps:id/tv_start1')
+[admin] 2021-03-01 14:35:36,870 INFO [base.py(base_click_element:28)] - 正在点击元素('accessibility id', '我的')
+[admin] 2021-03-01 14:35:36,870 INFO [base.py(base_find_element:23)] - 正在查找元素('accessibility id', '我的')
+[admin] 2021-03-01 14:35:38,680 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.gps:id/tvMeUserName')
+[admin] 2021-03-01 14:35:38,681 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.gps:id/tvMeUserName')
+[admin] 2021-03-01 14:35:39,528 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.gps:id/authsdk_switch_view')
+[admin] 2021-03-01 14:35:39,528 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.gps:id/authsdk_switch_view')
+[admin] 2021-03-01 14:35:42,335 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="密码登录"]')
+[admin] 2021-03-01 14:35:42,335 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="密码登录"]')
+[admin] 2021-03-01 14:35:44,226 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.EditText[@text = "请输入您的手机/邮箱/用户名"]')
+[admin] 2021-03-01 14:35:45,925 INFO [base.py(base_input_value:33)] - 正在清空元素('xpath', '//android.widget.EditText[@text = "请输入您的手机/邮箱/用户名"]')
+[admin] 2021-03-01 14:35:45,967 INFO [base.py(base_input_value:35)] - 向元素('xpath', '//android.widget.EditText[@text = "请输入您的手机/邮箱/用户名"]')输入11100009001
+[admin] 2021-03-01 14:35:47,542 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.EditText[@text = "请输入密码"]')
+[admin] 2021-03-01 14:35:48,195 INFO [base.py(base_input_value:33)] - 正在清空元素('xpath', '//android.widget.EditText[@text = "请输入密码"]')
+[admin] 2021-03-01 14:35:48,240 INFO [base.py(base_input_value:35)] - 向元素('xpath', '//android.widget.EditText[@text = "请输入密码"]')输入123456
+[admin] 2021-03-01 14:35:49,293 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确定"]')
+[admin] 2021-03-01 14:35:49,293 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确定"]')
+[admin] 2021-03-01 14:35:50,185 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.TextView[@text = "测试号9001"]')
+[admin] 2021-03-01 14:35:51,569 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
